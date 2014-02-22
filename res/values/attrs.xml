@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AWCircleImageView">
+        <attr name="frameSize" format="integer" />
+        <attr name="frameColor" format="color" /> 
+        <attr name="borderSize" format="integer" />
+        <attr name="borderColor" format="color" />
+    </declare-styleable>
+</resources>
